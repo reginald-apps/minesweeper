@@ -25,6 +25,6 @@ class Board extends StatefulWidget {
 class _BoardState extends State<Board> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(), body: Text("Board"));
+    return Scaffold(appBar: AppBar(), body: Text("Board 1"));
   }
 }
